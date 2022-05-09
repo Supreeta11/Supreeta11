@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @Supreeta11
+- ✔  I am  currently pursuing my bachelors from College Of Engineering Roorkee in Information Technology.
 - 👀 I’m interested in Data science
 - 🌱 I’m currently learning Data science
 - 💞️ I’m looking for internship & job opportunities ,where i can apply my knowledge to solve real-world problems.
