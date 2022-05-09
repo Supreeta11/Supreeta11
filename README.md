@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Supreeta11
-- 👀 I’m interested in Data scientist
+- 👀 I’m interested in Data science
 - 🌱 I’m currently learning Data science
 - 💞️ I’m looking for internship & job opportunities ,where i can apply my knowledge to solve real-world problems.
 - 📫 How to reach me kumarisupreeta4in@gmail.com
