@@ -1,9 +1,10 @@
 - 👋 Hi, I’m @Supreeta11
-- ✔  I am  currently pursuing my bachelors from College Of Engineering Roorkee in Information Technology.
-- 👀 I’m interested in Data science
-- 🌱 I’m currently learning Data science
-- 💞️ I’m looking for internship & job opportunities ,where i can apply my knowledge to solve real-world problems.
-- 📫 How to reach me kumarisupreeta4in@gmail.com
+- 🎓 First-year Master's student in Computer Science at **Jain University, Bangalore**
+💻 Passionate about learning, problem solving, and building useful things
+🌱 Currently exploring: Python, ML
+🤝 Open to collaborating on projects and learning from the community
+📫 Reach me at: email: supreetakumari27@gmail.com
+                 linkedIn:https://www.linkedin.com/in/supreeta-k11/
 
 <!---
 Supreeta11/Supreeta11 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
